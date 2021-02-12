@@ -18,7 +18,7 @@ section
 {
     width: 100%;
     height: 95vh;
-    background-image: url(/alinemelry.github.io/imagem/bg.jpg);
+    background-image: url("imagem/bg.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    position: relative;
