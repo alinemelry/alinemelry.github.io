@@ -69,7 +69,7 @@ header h1{
    
 }
 header p{
-    margin-bottom: 1em;
+    margin-bottom: 2em;
 
 }
 #sobre {
@@ -154,13 +154,22 @@ header p{
 
 /*rodape*/
 footer{
-    text-align: center;
+    text-align: left;
     padding: 15px;
     background-color: #ffffff;
 }
 footer a {
+    
     text-decoration: none;
     color: #00ffff;
+    
+    
+}
+footer p{
+    text-align: left;
+  
+    
+    
     
 }
 @media screen and(min-width:768px){
