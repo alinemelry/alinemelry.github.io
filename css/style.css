@@ -218,12 +218,12 @@ footer p{
         padding: 0 10px; 
 
     }
-    /* fotos*/
-    #fotos{
+    /* experiencia*/
+    #exp{
         flex-direction: row;
         flex-wrap: wrap;
     }
-    #fotos h2{
+    #exp h2{
         width: 100%;
         text-align: center;
     }
@@ -239,5 +239,13 @@ footer p{
         width: 100%;
 
     }
+    #footer p{
+        
+            flex-direction: row;
+            justify-content: space-around;
+        
+
+    }
 }
+
 
