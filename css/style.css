@@ -161,13 +161,16 @@ footer{
 footer a {
     
     text-decoration: none;
-    color: #00ffff;
+    color: #121313;
     
     
 }
 footer p{
-    text-align: left;
-  
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px 10px 10px ;
+    background-color: #191970;
+    color: #fff;
     
     
     
